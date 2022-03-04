@@ -1,4 +1,4 @@
-import math
+from math import sqrt
 print('this code is to check if a number is neon or not')
 def main():
     num=int(input("Enter a number:"))
